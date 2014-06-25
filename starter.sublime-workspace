@@ -417,6 +417,9 @@
 	},
 	"file_history":
 	[
+		"/Applications/AMPPS/www/ahuggins.com/index.html",
+		"/Applications/AMPPS/www/ahuggins.com/css/style.css",
+		"/Applications/AMPPS/www/Bootstrap-Starter/README.md",
 		"/Users/andrewhuggins/Desktop/To be successful in this world, you have to be an.txt",
 		"/Applications/AMPPS/www/laracasts1.dev/composer.json",
 		"/Applications/AMPPS/www/laracasts1.dev/app/routes.php",
@@ -541,10 +544,7 @@
 		"/Applications/AMPPS/www/charlie.com/charlie/js/app.js",
 		"/Applications/AMPPS/www/charlie.com/charlie/dashboard.php",
 		"/Applications/AMPPS/www/charlie.com/charlie/inc/init.php",
-		"/Applications/AMPPS/www/charlie.com/charlie/lib/config.php",
-		"/Applications/AMPPS/www/charlie.com/charlie/inc/config.ui.php",
-		"/Users/andrewhuggins/Library/Caches/Cleanup At Startup/Transmit/28C44A11-8926-46F8-B90F-017909A11552/ourcommunities.php",
-		"/Users/andrewhuggins/Library/Caches/Cleanup At Startup/Transmit/D84A49A1-F299-45CA-8CFF-64C8481FF62D/index.php"
+		"/Applications/AMPPS/www/charlie.com/charlie/lib/config.php"
 	],
 	"find":
 	{
@@ -765,7 +765,7 @@
 	{
 		"height": 94.0
 	},
-	"project": "ahuggins.sublime-project",
+	"project": "starter.sublime-project",
 	"replace":
 	{
 		"height": 70.0
